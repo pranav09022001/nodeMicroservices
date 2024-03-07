@@ -2,6 +2,7 @@
 const gateway = require('fast-gateway');
 const port = 9000;
 //const app=express();
+//hello
 
 const server = gateway({
     routes: [{
